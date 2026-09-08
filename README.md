@@ -5,7 +5,7 @@ Cloudflare DDNS 一键部署脚本，自动检测公网 IP 变化并更新 Cloud
 ## 一键安装
 
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/mimicatcn/ddns/main/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/mimicatcn/ddns/main/ddns.sh)
 ```
 
 安装过程中按提示输入：
