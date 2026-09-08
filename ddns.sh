@@ -6,7 +6,7 @@
 # 适配：Debian / Ubuntu
 # 快捷指令：安装后自动运行，每5分钟检查一次
 # 一键安装命令：
-# bash <(curl -Ls https://raw.githubusercontent.com/mimicatcn/ddns/main/install.sh)
+# bash <(curl -Ls https://raw.githubusercontent.com/mimicatcn/ddns/main/ddns.sh)
 # =========================================================
 
 # 颜色定义
